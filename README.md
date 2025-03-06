@@ -25,5 +25,8 @@ Aşağıda uygulamanın bazı ekran görüntüleri bulunmaktadır:
 <img src="example2WeatherApp/Images/2.JPG"  width="300">
 <img src="example2WeatherApp/Images/3.JPG"  width="300">
 
+## Kaynaklar
+- [Ui Lover YouTube Kanalı](https://www.youtube.com/@UiLover) – UI tasarımı ve geliştirme konusunda ilham alınmıştır.
+
 
 
